@@ -1,1 +1,12 @@
+Introdução/ contexto
 
+O nosso problema seria a implementação de um sistema de backup de dados para que não possamos nos preocupar com perdas repentinas de arquivos pois o novo banco chamado 
+Code bank precisara manter dados como contas bancários, informações dos clientes, localizações de depósitos e titulos de crédito de clientes.
+
+Objetivo específico 
+
+O nosso objetivo principal é colocar um sistema que elemine pra quase "zero" a perda de dados e nao ocorra nenhuma corrompimento de dados.
+
+Objetivos auxiliares 
+
+Aprimorar os módulos de criptografia, aprimoramento de software e software de compressão.
