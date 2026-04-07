@@ -6,3 +6,6 @@ Repositório para o projeto integrado do segundo semestre do curso de TADS (Aná
 
 
 ![image alt](https://github.com/Oregon64/P.I.-TADS-2-2026/issues/2#issue-4189810038)
+
+
+![Conversa sobre o ABNT](https://github.com/user-attachments/assets/0170238d-f0ac-40b9-8fff-a0c7700dd16c)
