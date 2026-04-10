@@ -1,7 +1,7 @@
 # P.I.-TADS-2-2026
 Repositório para o projeto integrado do segundo semestre do curso de TADS (Análise e Desenvolvimento de Sistemas) da faculdade Anhanguera durante o ano de 2026.
 
-Conversa e Desenvovimento do ABNT
+Conversa e Desenvovimento do ABNT primeira seção
 
 ![Image](https://github.com/user-attachments/assets/3c85d6f4-8eda-4c3b-bcbc-35fe6e09f3fc)
 
