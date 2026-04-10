@@ -3,10 +3,6 @@ Repositório para o projeto integrado do segundo semestre do curso de TADS (Aná
 
 Conversa e Desenvovimento do ABNT primeira seção
 
-![Image](https://github.com/user-attachments/assets/3c85d6f4-8eda-4c3b-bcbc-35fe6e09f3fc)
+<img width="200" height="300" alt="imagens" src="https://github.com/user-attachments/assets/7a4d51ef-ee86-4c27-a18f-98ddf077f5c3" />
 
-![Image](https://github.com/user-attachments/assets/a5249220-136c-43d5-af16-474265df5e3d)
-
-![Image](https://github.com/user-attachments/assets/a9e1624e-7084-4812-b1b2-49a7a185ffa1)
-
-![Image](https://github.com/user-attachments/assets/9c497c37-2621-4206-9f62-5a5668d9d888)
+ 
