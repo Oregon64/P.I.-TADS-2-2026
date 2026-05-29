@@ -1,0 +1,28 @@
+BCP / DRP – Referências e Cenários de Desastre
+Este documento apresenta referências técnicas sobre Business Continuity Plan (BCP) e Disaster Recovery Plan (DRP), além de exemplos de cenários de desastre comumente abordados em planos de continuidade de negócios.
+Referências
+ISO 22301 – Business Continuity Management Systems
+https://iso-library.com/standard/22301/
+NIST SP 800-34 – Contingency Planning Guide
+https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final
+TechTarget – Business Continuity Plan (BCP)
+https://www.techtarget.com/searchdisasterrecovery/definition/business-continuity-action-plan
+Business Continuity & Disaster Recovery Guide
+https://nflo.tech/knowledge-base/business-continuity-plan-disaster-recovery-prepare-organization/
+Cenários de Desastre
+1. Falha de Hardware / Infraestrutura
+Exemplos: pane em servidores, falha de storage, indisponibilidade de rede e queda de energia.
+Controles: redundância, failover, backups e alta disponibilidade.
+
+2. Ataque Cibernético
+Exemplos: ransomware, vazamento de dados, DDoS e comprometimento de credenciais.
+Controles: MFA, resposta a incidentes, restauração de backup e SOC/SIEM.
+
+3. Desastre Natural
+Exemplos: incêndio, enchente, terremoto e interrupção elétrica prolongada.
+Controles: site alternativo, replicação geográfica e trabalho remoto.
+
+Conceitos Importantes
+RTO (Recovery Time Objective): tempo máximo aceitável para restauração do serviço.
+RPO (Recovery Point Objective): quantidade máxima aceitável de perda de dados.
+BIA (Business Impact Analysis): análise de impacto no negócio.
