@@ -26,3 +26,5 @@ Conceitos Importantes
 RTO (Recovery Time Objective): tempo máximo aceitável para restauração do serviço.
 RPO (Recovery Point Objective): quantidade máxima aceitável de perda de dados.
 BIA (Business Impact Analysis): análise de impacto no negócio.
+
+feito por Robert Hanks Elias Silva 
