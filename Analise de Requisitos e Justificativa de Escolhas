@@ -1,0 +1,57 @@
+# 1 ANÁLISE DE REQUISITOS
+
+A elaboração dos planos de Backup e Continuidade de Negócios considerou requisitos operacionais, técnicos e de segurança da informação, visando garantir a integridade, disponibilidade e confidencialidade dos dados corporativos. Dessa forma, foram definidos requisitos funcionais, não funcionais e de segurança para assegurar a eficiência das soluções implementadas.
+
+## 1.1 Requisitos Funcionais
+
+Os requisitos funcionais correspondem às funções essenciais que o sistema de backup e continuidade deve executar. Entre os principais requisitos identificados, destacam-se:
+
+* realização automática de backups;
+* armazenamento local e remoto dos dados;
+* recuperação rápida de arquivos e sistemas;
+* manutenção da disponibilidade dos sistemas críticos;
+* continuidade das operações essenciais da empresa.
+
+## 1.2 Requisitos Não Funcionais
+
+Os requisitos não funcionais estão relacionados à qualidade, desempenho e confiabilidade da solução adotada. Foram definidos os seguintes requisitos:
+
+* segurança dos dados armazenados;
+* utilização de criptografia nos backups;
+* escalabilidade da infraestrutura;
+* confiabilidade da solução implementada;
+* garantia de disponibilidade mínima dos serviços.
+
+## 1.3 Requisitos de Segurança
+
+Os requisitos de segurança foram estabelecidos com o objetivo de minimizar riscos e proteger as informações corporativas contra acessos indevidos, falhas e ataques cibernéticos. Os principais requisitos são:
+
+* controle de acesso aos backups;
+* utilização de autenticação multifator;
+* monitoramento contínuo de incidentes;
+* proteção contra ataques de ransomware;
+* realização de testes periódicos de restauração.
+
+# 2 JUSTIFICATIVA DAS ESCOLHAS
+
+As estratégias adotadas para o Plano de Backup e o Plano de Continuidade de Negócios foram definidas considerando fatores como custo-benefício, disponibilidade, desempenho e segurança da informação. As escolhas realizadas buscam garantir maior confiabilidade e reduzir impactos causados por falhas ou incidentes.
+
+## 2.1 Uso da Regra 3-2-1
+
+A regra 3-2-1 foi escolhida por ser amplamente reconhecida como uma das melhores práticas para proteção de dados. Essa estratégia consiste em manter três cópias dos dados, armazenadas em dois tipos diferentes de mídia, sendo uma delas localizada fora do ambiente principal. Dessa forma, reduz-se significativamente o risco de perda de informações.
+
+## 2.2 Utilização de Backups em Nuvem
+
+O armazenamento em nuvem foi adotado devido à sua capacidade de fornecer redundância e disponibilidade remota dos dados. Além disso, essa solução reduz riscos relacionados a incêndios, enchentes, falhas físicas e roubos de equipamentos no ambiente local.
+
+## 2.3 Utilização de Backups Incrementais
+
+Os backups incrementais foram selecionados por proporcionarem maior eficiência operacional. Essa abordagem reduz o consumo de armazenamento e diminui o tempo necessário para execução das rotinas de backup, uma vez que apenas as alterações realizadas desde o último backup são copiadas.
+
+## 2.4 Implementação de Ambientes Redundantes
+
+A utilização de ambientes redundantes foi definida com o objetivo de aumentar a disponibilidade dos serviços e reduzir o tempo de recuperação em situações de falha. A redundância contribui para a continuidade das operações mesmo em cenários de indisponibilidade parcial da infraestrutura.
+
+## 2.5 Realização de Testes de Recuperação
+
+A realização periódica de testes de recuperação foi considerada essencial para validar a integridade dos backups e garantir sua efetividade em situações reais de desastre. Esses testes permitem identificar falhas preventivamente e aumentar a confiabilidade do plano de continuidade.
