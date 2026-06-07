@@ -1,0 +1,43 @@
+📌 Definição de RPO e RTO para Ativos Críticos
+Banco de dados de clientes
+
+RPO: 24h
+
+RTO: 48h
+
+Justificativa: perda máxima aceitável de 1 dia de dados; retomada em até 2 dias para não comprometer campanhas.
+
+Servidor de e-mails corporativos
+
+RPO: 12h
+
+RTO: 24h
+
+Justificativa: comunicação essencial; tolerância baixa para perda de mensagens.
+
+Documentos de contratos e propostas
+
+RPO: 48h
+
+RTO: 72h
+
+Justificativa: podem ser recuperados com mais flexibilidade, mas não podem ficar indisponíveis por mais de 3 dias.
+
+Arquivos de design e mídia
+
+RPO: 24h
+
+RTO: 48h
+
+Justificativa: campanhas precisam ser retomadas rapidamente; perda de até 1 dia é aceitável.
+
+Sistema financeiro e contábil
+
+RPO: 24h
+
+RTO: 72h
+
+Justificativa: dados críticos, mas podem ser restaurados em até 3 dias sem impacto imediato.
+
+
+criado por Danilo Silva Pereira
