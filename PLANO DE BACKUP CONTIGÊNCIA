@@ -1,0 +1,295 @@
+  PLANO DE BACKUP CONTINGÊNCIA  
+
+  
+
+  
+
+  
+
+1. Objetivo  
+
+Este plano tem como objetivo garantir a proteção, recuperação e continuidade das informações e sistemas da organização em casos de falhas, perda de dados, ataques cibernéticos, desastres naturais, erros humanos ou indisponibilidade dos serviços.  
+
+  
+
+2. Escopo  
+
+O plano abrange:  
+
+Servidores físicos e virtuais  
+
+Computadores corporativos  
+
+Bancos de dados  
+
+Sistemas internos  
+
+Arquivos compartilhados  
+
+Serviços em nuvem  
+
+E-mails corporativos  
+
+Equipamentos de rede  
+
+  
+
+3. Política de Backup  
+
+3.1 Tipos de Backup  
+
+Backup Completo (Full)  
+
+Realizado semanalmente  
+
+Contém todos os arquivos e sistemas selecionados  
+
+Backup Incremental  
+
+Realizado diariamente  
+
+Copia apenas arquivos alterados desde o último backup  
+
+Backup Diferencial  
+
+Realizado conforme necessidade operacional  
+
+Copia arquivos alterados desde o último backup completo  
+
+  
+
+4. Frequência dos Backups  
+
+Tipo de Backup Frequência  
+
+Horário  
+
+Retenção  
+
+Completo Semanal  
+
+Domingo – 22h  
+
+6 meses  
+
+Incremental Diário  
+
+22h  
+
+30 dias  
+
+A cada 4  
+
+Banco de Dados horas  
+
+Automático  
+
+15 dias  
+
+Nuvem Diário  
+
+23h  
+
+90 dias  
+
+  
+
+5. Locais de Armazenamento  
+
+Os backups deverão ser armazenados em:  
+
+Servidor local dedicado  
+
+HD externo criptografado  
+
+Ambiente em nuvem  
+
+Local externo (off-site)  
+
+  
+
+6. Segurança dos Backups  
+
+Medidas de segurança:  
+
+Criptografia dos arquivos de backup  
+
+Controle de acesso restrito  
+
+Autenticação multifator  
+
+Monitoramento de acessos  
+
+Antivírus atualizado  
+
+Testes periódicos de integridade  
+
+  
+
+7. Plano de Contingência  
+
+7.1 Situações de Contingência  
+
+Este plano será ativado em casos de:  
+
+Ataques ransomware  
+
+Queda de servidores  
+
+Perda de banco de dados  
+
+Falha elétrica prolongada  
+
+Incêndio  
+
+Inundação  
+
+Exclusão acidental de arquivos  
+
+Falhas de rede  
+
+  
+
+8. Procedimentos de Recuperação  
+
+8.1 Recuperação de Arquivos  
+
+Identificar arquivos afetados  
+
+Verificar última cópia íntegra  
+
+Restaurar backup  
+
+Validar integridade dos dados  
+
+Registrar ocorrência  
+
+8.2 Recuperação de Servidores  
+
+Isolar equipamento comprometido  
+
+Avaliar danos  
+
+Restaurar sistema operacional  
+
+Restaurar backup mais recente  
+
+Validar funcionamento  
+
+Liberar ambiente para operação  
+
+8.3 Recuperação de Banco de Dados  
+
+Identificar ponto de falha  
+
+Restaurar último backup válido  
+
+Aplicar logs de transação  
+
+Validar consistência  
+
+Liberar acesso aos usuários  
+
+  
+
+9. Responsabilidades  
+
+Função  
+
+Responsabilidade  
+
+TI  
+
+Execução e monitoramento dos backups  
+
+Gestor de TI  
+
+Aprovação e supervisão do plano  
+
+Usuários  
+
+Armazenamento correto dos arquivos  
+
+Diretoria  
+
+Aprovação dos recursos necessários  
+
+  
+
+10. Testes do Plano  
+
+Os testes de restauração deverão ocorrer:  
+
+Mensalmente para arquivos críticos  
+
+Trimestralmente para servidores  
+
+Semestralmente para recuperação total do ambiente  
+
+Todos os testes deverão ser documentados.  
+
+  
+
+11. Tempo de Recuperação  
+
+Serviço  
+
+Tempo Máximo de Recuperação  
+
+Arquivos  
+
+Até 2 horas  
+
+Banco de Dados Até 4 horas  
+
+Servidores Até 6 horas  
+
+Ambiente  
+
+Até 24 horas  
+
+Completo  
+
+  
+
+12. Comunicação em Caso de Incidente  
+
+Em caso de incidente:  
+
+Informar equipe de TI  
+
+Comunicar gestores responsáveis  
+
+Registrar ocorrência  
+
+Atualizar status da recuperação  
+
+Emitir relatório final  
+
+  
+
+13. Revisão do Plano  
+
+Este plano deverá ser revisado:  
+
+Anualmente  
+
+Após incidentes críticos  
+
+Após mudanças significativas na infraestrutura  
+
+  
+
+    
+
+    
+
+    
+
+  
+
+14. Considerações Finais  
+
+A correta execução deste plano garante maior segurança das informações, continuidade operacional e redução de impactos em situações emergenciais.  
+
+  
